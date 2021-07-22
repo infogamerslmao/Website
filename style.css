@@ -22,7 +22,7 @@
     bottom: 100%px;
   }
   .support-div{
-    position:fixed;
-    left:1550px;
-    bottom: -0px;
+    position: fixed;
+    bottom:0;
+    right:0;
   }
