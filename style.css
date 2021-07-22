@@ -1,0 +1,28 @@
+.body{
+    text-align: center;
+    color:white;
+}
+
+.image-div{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    bottom: 10%;
+  }
+
+.blog-div{
+    color: white;
+    text-decoration: none;
+    display: inline-flexbox;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: -100%;
+    left: 50%;
+    bottom: 100%px;
+  }
+  .support-div{
+    position:fixed;
+    left:1550px;
+    bottom: -0px;
+  }
