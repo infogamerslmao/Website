@@ -4,25 +4,25 @@
 }
 
 .image-div{
-    position: absolute;
+    position: fixed;
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-    bottom: 10%;
+    bottom: 30%;
   }
 
-.blog-div{
-    color: white;
-    text-decoration: none;
-    display: inline-flexbox;
-    position: absolute;
-    transform: translate(-50%, -50%);
-    top: -100%;
-    left: 50%;
-    bottom: 100%px;
-  }
   .support-div{
     position: fixed;
     bottom:0;
     right:0;
+  }
+  .blog-link{
+    color:white;
+    background-color:#f44336;
+    padding: 15px 25px;
+    display: inline-block;
+    text-decoration: none;
+  }
+  .blog-div{
+    left: 100px;
   }
